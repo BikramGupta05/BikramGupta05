@@ -50,12 +50,6 @@ Currently a Final-year B.Tech student at IIT (ISM) Dhanbad, passionate about **M
 
 
 
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=BikramGupta05&icon=0&color=6)](https://visitcount.itsvg.in)
-
 ---
 
 ⚡ "Striving to merge innovation with impact — from smart web systems to real-world solutions."  
