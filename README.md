@@ -45,14 +45,6 @@ Currently a Final-year B.Tech student at IIT (ISM) Dhanbad, passionate about **M
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=BikramGupta05&show_icons=true&theme=github_dark&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BikramGupta05&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
-</p>
 
 
 
